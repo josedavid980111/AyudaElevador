@@ -1,0 +1,10 @@
+D:\BD\Ayuda\Ayuda\bin\Debug\Ayuda.exe.config
+D:\BD\Ayuda\Ayuda\bin\Debug\Ayuda.exe
+D:\BD\Ayuda\Ayuda\bin\Debug\Ayuda.pdb
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.csprojAssemblyReference.cache
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.Form1.resources
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.Properties.Resources.resources
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.csproj.GenerateResource.cache
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.csproj.CoreCompileInputs.cache
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.exe
+D:\BD\Ayuda\Ayuda\obj\Debug\Ayuda.pdb
